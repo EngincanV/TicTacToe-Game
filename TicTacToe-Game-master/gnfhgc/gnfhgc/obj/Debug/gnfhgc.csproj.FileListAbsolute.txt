@@ -1,0 +1,10 @@
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\bin\Debug\gnfhgc.exe.config
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\bin\Debug\gnfhgc.exe
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\bin\Debug\gnfhgc.pdb
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\obj\Debug\gnfhgc.csprojAssemblyReference.cache
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\obj\Debug\gnfhgc.Form1.resources
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\obj\Debug\gnfhgc.Properties.Resources.resources
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\obj\Debug\gnfhgc.csproj.GenerateResource.cache
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\obj\Debug\gnfhgc.csproj.CoreCompileInputs.cache
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\obj\Debug\gnfhgc.exe
+C:\Users\Engincan Veske\source\repos\gnfhgc\gnfhgc\obj\Debug\gnfhgc.pdb
