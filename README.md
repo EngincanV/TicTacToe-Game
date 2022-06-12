@@ -1,2 +1,3 @@
 # TicTacToe-Game
-I add this easy game to here for i want to see how much i will be improved.
+
+A simple Tic Tac Toe game that was developed using Windows Forms.
